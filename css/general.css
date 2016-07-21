@@ -1264,3 +1264,48 @@ p.copyright {
 	}
 
 }
+
+.social .fa{
+margin-right: 2%;
+    font-size: 40px;
+	}
+	
+	
+	
+	.bottombar {
+	position: relative;
+	min-height: 60px;
+	margin-bottom: 0; 
+	width: 100%;
+	z-index: 999;
+	border-radius: 0; 
+}
+
+.bottombar-default {
+	position: relative;
+	min-height: 60px;
+	width: 100%;
+	z-index: 999;
+	
+}
+
+.bottombar-default .bottombar-nav>li>a {
+color: #ffffff;
+}
+
+.bottombar-default .bottombar-nav>li>a:hover {
+color: #ECEBEB;
+}
+
+.bottombar-default .bottombar-brand {
+color: #ffffff;
+}
+.bottombar-default .bottombar-brand:hover {
+color: #ECEBEB;
+}
+
+.bottombar-brand {
+	font-family: arvo;
+	letter-spacing: 3px;
+	font-weight: 400 !important;
+}
